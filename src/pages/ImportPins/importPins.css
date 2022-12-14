@@ -1,0 +1,14 @@
+.login-btn {
+    background-color: rgb(117, 6, 108);
+    height: 7vh;
+    width: 8vw;
+    border-radius: .3rem;
+    margin-right: 1rem;
+}
+
+.activate-btn {
+    background-color: rgb(214, 74, 22);
+    height: 7vh;
+    width: 11vw;
+    border-radius: .3rem;
+}
