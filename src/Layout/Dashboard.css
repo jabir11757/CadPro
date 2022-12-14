@@ -1,0 +1,11 @@
+.style:active {
+    background-color: rgb(117, 6, 108);
+}
+
+.active {
+    background-color: rgb(117, 6, 108);
+}
+
+.btn:hover {
+    background-color: rgb(155, 27, 144);
+}
